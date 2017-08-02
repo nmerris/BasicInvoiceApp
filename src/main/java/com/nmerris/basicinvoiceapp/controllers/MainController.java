@@ -6,6 +6,10 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
+// This is a test app that uses routes to direct web traffic
+// to specified methods using the Spring framework and Thymeleaf
+
+
 @Controller
 public class MainController {
 
